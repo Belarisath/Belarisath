@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning fullstack website development and data analysis.
 -     Current programming languages is Python basics and HTML.
 - 💞️ I’m looking to collaborate on something in my spare time that can help build my learning.
-- 📫 How to reach me HackerRezkin@duck.com
+- 📫 How to reach me hackerrezkin@duck.com
 
 <!---
 Belarisath/Belarisath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
